@@ -1,29 +1,13 @@
+# Professional README Generator
 
-        # test
+## Purpose
+Quickly Create a professional README for a new project from the command-line
 
-        * [Installation](#installation)
-        * [Instructions](#instructions)
-        * [Usage](#usage)
-        * [Tests] (#tests)
-        * [Credits](#credits)
-        * [License](#licenses)
-        # Installation
-        run "node app" in command- line
-        ## Instructions
-        test instructions
-        ## Usage
-        create a professional README using command-line
-        ## Contributing
-        n/a
-        ## Tests
-        test 1, test 2, test, 3
-        ## Credits
-        Joshua Ramat
-        ## License
-        N/A
+## Built With
+* JavaScript
+* Node.js
 
-        ## Questions
-        * GitHub: https://github.com/joshuaramat
-        * my email
-        * email: myemail@email.com
-        
+## Screenshot and Demo
+![Link](./DEMO.mov)
+
+### Made by Joshua Ramat

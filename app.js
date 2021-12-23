@@ -168,10 +168,10 @@ inquirer.prompt(
     // createNewFile function
     function createNewFile(fileName, data){
         // fs
-        fs.writeFile('./README.md', data, (err) => {
+        fs.writeFile('./finishedREADME.md', data, (err) => {
             if (err){
                 console.log(err)
             }
-            console.log("Your README is complete! find file in readme-gen directory.");
+            console.log("Your README is complete! find file in readme-gen directory as finishedREADME.md");
         })
     };
