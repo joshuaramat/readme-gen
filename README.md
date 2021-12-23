@@ -10,8 +10,6 @@ Quickly Create a professional README for a new project from the command-line
 ## Screenshot and Demo
 ![Screenshot](./screenshot.png)
 
-
-https://user-images.githubusercontent.com/87837577/147171727-4ca8d9f2-961c-410c-a85e-7a3ff1e2b335.mov
-
+https://user-images.githubusercontent.com/87837577/147172100-21d7c052-3d9c-4635-bffb-781dc3672458.mov
 
 ### Made by Joshua Ramat
