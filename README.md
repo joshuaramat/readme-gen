@@ -8,6 +8,6 @@ Quickly Create a professional README for a new project from the command-line
 * Node.js
 
 ## Screenshot and Demo
-![Link](./DEMO.mov)
+![Screenshot](./screenshot)
 
 ### Made by Joshua Ramat
