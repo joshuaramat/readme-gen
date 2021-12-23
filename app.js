@@ -172,6 +172,6 @@ inquirer.prompt(
             if (err){
                 console.log(err)
             }
-            console.log("Your README is complete!");
+            console.log("Your README is complete! find file in readme-gen directory.");
         })
     };
